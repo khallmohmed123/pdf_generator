@@ -1,0 +1,28 @@
+.header{
+    background: #0a53be;
+    padding: 10px;
+    margin-bottom: 10px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.header .center{
+    text-align: center;
+}
+.header *{
+    color: white;
+}
+.container{
+    margin-top: 200px;
+}
+.page{
+    box-shadow: 2px -1px 81px -22px rgba(0,0,0,0.47);
+    -webkit-box-shadow: 2px -1px 81px -22px rgba(0,0,0,0.47);
+    -moz-box-shadow: 2px -1px 81px -22px rgba(0,0,0,0.47);
+    background: #82c109;
+    padding: 20px;
+}
+.page .row *{
+    margin-top: 10px;
+}
